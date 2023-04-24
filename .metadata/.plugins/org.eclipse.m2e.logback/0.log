@@ -9,3 +9,4 @@
 2023-04-24 15:43:04,649 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khalil/Library/CloudStorage/OneDrive-BowdoinCollege/Spring 2023/Software Engineering/projects/project2/KhalilContinuousIntegration/GhActionsDemo/GhActionsDemo/src/main/resources
 2023-04-24 15:43:04,654 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-04-24 15:43:04,654 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khalil/Library/CloudStorage/OneDrive-BowdoinCollege/Spring 2023/Software Engineering/projects/project2/KhalilContinuousIntegration/GhActionsDemo/GhActionsDemo/src/test/resources
+2023-04-24 15:48:56,010 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
